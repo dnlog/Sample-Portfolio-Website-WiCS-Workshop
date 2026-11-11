@@ -22,7 +22,7 @@
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Project One](https://github.com/your-username/project-one) | [One line] | [React, Node.js] |
+| [Archetype Design Persuasion](https://github.com/dnlog/archetype_design_persusion) | [One line] | [React, Node.js] |
 | [Project Two](https://github.com/your-username/project-two) | [One line] | [Python] |
 
 ### Fun fact
