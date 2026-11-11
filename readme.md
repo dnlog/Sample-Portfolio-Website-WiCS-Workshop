@@ -1,8 +1,8 @@
-## Hi, I'm [Dominique Logan] 👋
+## Hi, I'm Dominique Logan 👋
 
-[BIS student at NJIT] · [WiCS member] · [Looking for Summer 2027 Business Analyst internships]
+BIS student at NJIT · WiCS member · Looking for Business Analyst internships
 
-- 🔭 I'm currently working on **[white T-shirt project]**
+- 🔭 I'm currently working on a **white T-shirt project** in IS-117
 - 🌱 I'm learning **[e.g. Python, Javascript (Node.js) and SQL]**
 - 💼 Portfolio: **[your-username.github.io](https://your-username.github.io)**
 - 📫 Reach me at **your.email@example.com** or on [LinkedIn](https://www.linkedin.com/in/your-linkedin)
